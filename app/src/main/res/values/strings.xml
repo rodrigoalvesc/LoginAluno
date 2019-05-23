@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Webservice</string>
+    <string name="edit_usuario">Usuário</string>
+    <string name="edit_senha">Senha</string>
+    <string name="bt_login">Login</string>
+    <string name="bt_voltar">Voltar</string>
+</resources>
